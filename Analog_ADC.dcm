@@ -252,6 +252,12 @@ K ADC
 F http://www.ti.com/lit/ds/symlink/ads7866.pdf
 $ENDCMP
 #
+$CMP ADS8866
+D 16-bit, 100-kSPS, single-ended SAR ADC
+K 16 bit SAR ADC
+F http://www.ti.com/lit/ds/symlink/ads8866.pdf
+$ENDCMP
+#
 $CMP CA3300
 D Convertisseur A->D 6 bits rapide
 K ADC CAN
